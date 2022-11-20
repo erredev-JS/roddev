@@ -44,6 +44,7 @@ span{
     align-items: center;
     flex-direction: column;
     color: black;
+    background-color: white;
 }
 
 .servicios__title{
