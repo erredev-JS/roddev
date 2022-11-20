@@ -40,7 +40,6 @@ span{
 .servicios{
     height: 800px;
     display: flex;
-    background-color: beige;
     justify-content: center;
     align-items: center;
     flex-direction: column;
